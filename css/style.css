@@ -11,3 +11,32 @@
     display: table;
     clear: both;
 }
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+header{
+    height: 100px;
+    background-color:rgb(229, 121, 230);
+    margin: 20px;
+}
+
+
+.main_1{
+    margin: 20px;
+    height: 280px; 
+    background-color: rgb(225, 214 , 122);
+}
+
+.main_2{
+    margin: 20px;
+    height: 400px;
+    background-color:rgb(171, 207, 231)
+}
+footer{
+    height: 50px;
+    background-color:rgb(136, 1, 254);
+    margin: 20px;
+}
